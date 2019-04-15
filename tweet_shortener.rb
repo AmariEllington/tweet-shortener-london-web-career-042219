@@ -1,5 +1,6 @@
 # Write your code here.
-dictionary = {
+def dictionary  
+  substitute = {
   "hello" => 'hi'
   "to, two, too" => '2'
   "for, four" => '4'
@@ -7,3 +8,5 @@ dictionary = {
   "at" => "@"
   "and" => "&"
 }
+
+end 
