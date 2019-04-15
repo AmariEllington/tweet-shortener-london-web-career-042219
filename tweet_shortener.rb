@@ -2,10 +2,11 @@
 def dictionary
   substitute = {
   "hello" => 'hi',
-  "to" => '2'
-  "two" => '2'
+  "to" => '2',
+  "two" => '2',
   "too" => '2',
-  "for, four" => '4',
+  "for" => '4',
+  "four" => '4',
   'be' => 'u',
   "at" => "@",
   "and" => "&"
