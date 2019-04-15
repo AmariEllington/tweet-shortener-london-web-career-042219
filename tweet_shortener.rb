@@ -8,7 +8,7 @@ def dictionary
   "at" => "@"
   "and" => "&"
 }
-end 
+end
 
 def word_substituter(string_of_a_tweet)
 
